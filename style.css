@@ -1,0 +1,128 @@
+*{
+    padding: 0;
+    margin: o;
+} 
+
+
+
+
+.carousel-item > img {
+    width: 100%;
+    height: 70vh;
+    object-fit: cover;
+}
+/* .top-left {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+  } */
+
+
+  #brand{
+   
+   border-radius: 10px;
+   
+  }
+  .brand2{
+    text-decoration: none;
+  }
+
+  .admin-img{
+    width: 100px;
+  object-fit: contain;
+  }
+
+  #scroll {
+    max-height: 150px;
+   overflow-y: auto;
+   color:yellow 
+  
+}
+    ::-webkit-scrollbar {
+      width: 10px;
+    }
+    
+
+
+/* 
+footer but not working had to use input styling */
+
+/* .img {
+  width: 100%;
+  height: 50%;
+  object-fit: contain;
+  margin-left:rem ;
+  position: absolute;
+  top: rem;
+
+  right: 6.5rem;
+
+  display: inline-block;
+} */
+
+/* .qwer {
+  
+  position: relative;
+} */
+
+/* h6 {
+  display: inline-flex;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+margin-left: 4rem;
+} */
+/* .last{
+  position: absolute;
+  top: rem;
+
+  right: -4rem;
+
+ 
+} */
+/* .subs {
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  width: 20rem;
+  height: 2rem;
+  padding: rem;
+  font-size: smaller;
+} */
+
+/* input {
+  background: transparent;
+  outline: none;
+  border: none;
+  padding: 0.6rem;
+} */
+
+/* .ads {
+  outline: none;
+  border: none;
+  background: rgb(108, 117, 125);
+  border-radius: 10px;
+  padding: 0.7rem;
+  padding-right: px;
+  color: rgb(255, 255, 255);
+  height: 1.8rem;
+  display: flex;
+ align-items: center; */
+
+  /* transition: all 3s ease-in-out; */
+  /* font-size: large;
+  font-weight:400; */
+/* } */
+
+/* button:hover {
+  background-color: rgb(220, 53, 69);
+  font-size: 0.9rem;
+  transition-duration: s;
+  font-weight: 600;
+  color: rgb(255, 255, 255)
+} */
+/* .lorem{
+ font-size: small; 
+padding-top: 2rem;
+} */
